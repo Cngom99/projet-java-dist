@@ -24,7 +24,11 @@ public class ProduitImpl implements IProduit {
 
     @Override
     public void affichage(Produit produit) {
-        System.out.println("Détails du produit :");
-        System.out.println(produit);
+        System.out.println("\n--- Détails du produit ---");
+        System.out.println("Référence : " + produit.getRef());
+        System.out.println("Libellé : " + produit.getLibelle());
+        System.out.println("Quantité : " + produit.getQuantite() + " unités");
+        System.out.println("Prix : " + produit.getPrix() + " FCFA");
+        System.out.println("--------------------------");
     }
 }
