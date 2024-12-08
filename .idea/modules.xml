@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/AP1/AP1.iml" filepath="$PROJECT_DIR$/AP1/AP1.iml" />
       <module fileurl="file://$PROJECT_DIR$/AP2/AP2.iml" filepath="$PROJECT_DIR$/AP2/AP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Apps.iml" filepath="$PROJECT_DIR$/.idea/Apps.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/second-projecte.iml" filepath="$PROJECT_DIR$/second-projecte.iml" />
+>>>>>>> 69a895e36e4913208ce284d26a4f71026756bd06
     </modules>
   </component>
 </project>
